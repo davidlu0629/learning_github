@@ -33,7 +33,15 @@ import numpy as np
 
 # 注意     
     中文,英文會嚴重影響到換行的切換,要小心注意!!  
-    
+
+### Reference
+https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e#code
+### 標題
+```
+複數個#後+空格+標題內容
+```
+### 換行
+空白兩下即可換行  
 
 
 
